@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="Neon Customer Churn Analytics Dashboard" src="https://github.com/user-attachments/assets/ddbbefdb-c9d8-4817-865c-19b64ce5d933" />
 <img width="1536" height="1024" alt="Neon Customer Churn Analytics Dashboard" src="https://github.com/user-attachments/assets/453e07ac-6d7b-45c4-861d-d841213a5cb6" />
 # 🚀 Customer Churn Prediction & Retention Analysis
 
