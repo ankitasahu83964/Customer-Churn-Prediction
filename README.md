@@ -143,4 +143,3 @@ B.Tech | Data Science & Machine Learning
 </p>
 
 
-<img width="1536" height="1024" alt="Neon Customer Churn Analytics Dashboard" src="https://github.com/user-attachments/assets/501f9e40-6480-4a6e-8d62-35e1c871af48" />
